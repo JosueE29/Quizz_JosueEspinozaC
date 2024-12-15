@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\vistas\\vistas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\vistas\\vistas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|c:\\users\\zuper\\source\\repos\\quizzprogra\\quizzprogra\\vistas\\vistas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\vistas\\vistas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\vistas\\vistas.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\vistas\\vistas.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\logica\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\logica\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\modelo\\classcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\modelo\\classcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\logica\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\logica\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\modelo\\schoolcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\modelo\\schoolcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\quizzprogra\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9DCD188-5CBD-4349-9983-E8125F402F77}|QuizzProgra\\QuizzProgra.csproj|solutionrelative:quizzprogra\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vistas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Vistas\\Vistas.aspx.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx.cs",
+              "RelativeToolTip": "QuizzProgra\\Vistas\\Vistas.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:20:54.3Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vistas.aspx",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx",
+              "RelativeDocumentMoniker": "QuizzProgra\\Vistas\\Vistas.aspx",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx",
+              "RelativeToolTip": "QuizzProgra\\Vistas\\Vistas.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T21:52:46.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vistas.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx.designer.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Vistas\\Vistas.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Vistas\\Vistas.aspx.designer.cs",
+              "RelativeToolTip": "QuizzProgra\\Vistas\\Vistas.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:21:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CLASS.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\CLASS.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Logica\\CLASS.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\CLASS.cs",
+              "RelativeToolTip": "QuizzProgra\\Logica\\CLASS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:28:09.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SCHOOL.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\SCHOOL.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Logica\\SCHOOL.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\SCHOOL.cs",
+              "RelativeToolTip": "QuizzProgra\\Logica\\SCHOOL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:24:31.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CLASSCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Modelo\\CLASSCLS.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Modelo\\CLASSCLS.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Modelo\\CLASSCLS.cs",
+              "RelativeToolTip": "QuizzProgra\\Modelo\\CLASSCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:10:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SCHOOLCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Modelo\\SCHOOLCLS.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Modelo\\SCHOOLCLS.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Modelo\\SCHOOLCLS.cs",
+              "RelativeToolTip": "QuizzProgra\\Modelo\\SCHOOLCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:10:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\DBconn.cs",
+              "RelativeDocumentMoniker": "QuizzProgra\\Logica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Logica\\DBconn.cs",
+              "RelativeToolTip": "QuizzProgra\\Logica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:06:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Web.config",
+              "RelativeDocumentMoniker": "QuizzProgra\\Web.config",
+              "ToolTip": "C:\\Users\\Zuper\\source\\repos\\QuizzProgra\\QuizzProgra\\Web.config",
+              "RelativeToolTip": "QuizzProgra\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T02:33:30.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
